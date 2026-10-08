@@ -1,0 +1,26 @@
+# Install PyTorch separately using the CUDA/CPU wheel index appropriate to the host.
+# Python 3.9; install with pip<24.1 for OmegaConf 2.0.6 metadata compatibility.
+numpy==1.23.5
+scipy==1.13.1
+transformers==4.47.1
+peft==0.14.0
+bitsandbytes==0.45.0
+accelerate==1.10.1
+huggingface-hub==0.35.3
+hydra-core==1.0.7
+omegaconf==2.0.6
+opencv-python==4.11.0.86
+librosa==0.11.0
+soundfile==0.13.1
+cython==3.1.4
+editdistance
+python_speech_features
+einops
+sentencepiece
+tqdm
+tensorboard
+unidecode
+regex
+sacrebleu
+cffi
+PyYAML
